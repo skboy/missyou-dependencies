@@ -4,7 +4,7 @@
 
     <groupId>com.missyou</groupId>
     <artifactId>missyou-dependencies</artifactId>
-    <version>1.0.0.RELEASE</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <description>通用依赖-Dependencies</description>
 
@@ -13,7 +13,7 @@
         <connection>scm:git:http://gitlab.skboyed.xyz/missyou/missyou-dependencies.git</connection>
         <developerConnection>scm:git:http://gitlab.skboyed.xyz/missyou/missyou-dependencies.git</developerConnection>
         <url>http://gitlab.skboyed.xyz/missyou/missyou-dependencies</url>
-      <tag>1.0.0.RELEASE</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
@@ -36,8 +36,8 @@
         <hutool.version>5.3.5</hutool.version>
 
         <!-- Projects-->
-        <missyou.version>1.0.0.RELEASE</missyou.version>
-        <missyou.development.version>1.0.1-SNAPSHOT</missyou.development.version>
+        <missyou.version>1.0.1.RELEASE</missyou.version>
+        <missyou.development.version>1.0.2-SNAPSHOT</missyou.development.version>
     </properties>
 
     <developers>
