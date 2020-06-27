@@ -36,8 +36,8 @@
         <hutool.version>5.3.5</hutool.version>
 
         <!-- Projects-->
-        <missyou.version>1.0.3.RELEASE</missyou.version>
-        <missyou.development.version>1.0.4-SNAPSHOT</missyou.development.version>
+        <missyou.version>1.0.4.RELEASE</missyou.version>
+        <missyou.development.version>1.0.5-SNAPSHOT</missyou.development.version>
     </properties>
 
     <developers>
